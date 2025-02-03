@@ -35,13 +35,16 @@ def score_game(random_predict) -> int: # Функция для оценки
         int: среднее количество попыток
     """
     count_ls = [] # здесь будем хранить статистику попыток за 1000 проходов
-    # np.random.seed(1)  # фиксируем сид для воспроизводимости
+    np.random.seed(1)  # фиксируем сид для воспроизводимости
     random_array = np.random.randint(1, 101, size=(1000))  # загадали список чисел
 
     for number in random_array:
         count_ls.append(random_predict(number))
 
     score = int(np.mean(count_ls))
-    print(f"Ваш алгоритм угадывает число в среднем за: {score} попытки")
-print('Run benchmarking for game_core_v3: ', end='')
+    print(f'Ваш алгоритм угадывает число: в среднем за {score} попытки')
+    print(f'Ваш алгоритм угадывает число: максимум за {max(count_ls)} попытки')
+    print(f'Ваш алгоритм угадывает число: минимум за {min(count_ls)} попытки')
+
+print('Run benchmarking for game_core_v3:')
 score_game(game_core_v3)
