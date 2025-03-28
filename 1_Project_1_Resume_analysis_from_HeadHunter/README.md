@@ -1,17 +1,17 @@
 # PROJECT-1. Анализ резюме из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Результат)  
-[6. Выводы](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Выводы)     
+[1. Описание проекта](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Результат)  
+[6. Выводы](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Выводы)     
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, как вы знаете, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -56,7 +56,7 @@
 - В дирректории /charts лежат сохраненные графики в формате HTML
 - В дирректории /data лежат файлы с предобработанными и финальными  данными.
   
-:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -65,7 +65,7 @@
 3. Очистка данных;
 4. Выводы и предложения.
 
-:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 
 ### Результат:  
@@ -75,10 +75,10 @@
    4. Код несколько раз отчитан на соответствие стандарту PEP8;
    5. Воспроизводимость кода проверена в VS Code.
 
-:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Оглавление)
 
 
 ### Выводы:  
 Отработаны основные этапы работы с данными на примере датасета c резюме от HeadHunter
 
-:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1.PROJECT-1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter/README.md#Оглавление)
