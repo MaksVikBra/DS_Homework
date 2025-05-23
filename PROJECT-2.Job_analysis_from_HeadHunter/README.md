@@ -2,25 +2,25 @@
 
 ## **Содержание**
 
-1. [Описание проекта](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Описание-проекта)  
-2. [Решаемая задача](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Решаемая-задача)
+1. [Описание проекта](#описание-проекта)  
+2. [Решаемая задача](#решаемая-задача)
 
-    2.1 [Условия](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Условия)
+    2.1 [Условия](#условия)
 
-    2.2 [Метрики](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Метрики)
+    2.2 [Метрики](#метрики)
 
-    2.3 [Навыки](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Навыки)
+    2.3 [Навыки](#навыки)
 
-3. [Информация о данных](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Информация-о-данных)  
-4. [Этапы работы над проектом](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Этапы-работы-над-проектом)  
-5. [Результаты](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Результаты)
-6. [Выводы](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Выводы)
+3. [Информация о данных](#информация-о-данных)  
+4. [Этапы работы над проектом](#этапы-работы-над-проектом)  
+5. [Результаты](#результаты)
+6. [Выводы](#выводы)
 
 ### **Описание проекта**
 
 Изучение базы вакансий `HeadHunter` с целью подготовки данных для модели машинного обучения, которая сможет рекомендовать вакансии кандидатам кадрового агентства, претендующим на позицию `Data Scientist`.
 
-:arrow_up:[к содержанию](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Содержание)
+:arrow_up:[к содержанию](#содержание)
 
 ### **Решаемая задача**
 
@@ -55,7 +55,7 @@
 - Улучшить умения работы в среде `IDE VS Code`, а также в системах `Git` и `GitHub`, особенно через добавление проекта в портфолио;  
 - Отточить навыки написания эффективного, воспроизводимого кода на `Python` в соответствии с требованиями `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Содержание)
+:arrow_up:[к содержанию](#содержание)
 
 ### **Информация о данных**
 
@@ -68,7 +68,7 @@
   - `industries` – справочник, отображающий варианты сфер деятельности работодателей;
   - `employers_industries` – дополнительная таблица, устанавливающая связь между работодателями и их сферами деятельности, поскольку один работодатель может работать в нескольких сферах или не указывать их вовсе.
   
-:arrow_up:[к содержанию](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Содержание)
+:arrow_up:[к содержанию](#содержание)
 
 ### **Этапы работы над проектом**
 
@@ -80,7 +80,7 @@
 - Дополнительный (собственный) анализ.  
 - Оформление проекта и загрузка на `GitHub`.
 
-:arrow_up:[к содержанию](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Содержание)
+:arrow_up:[к содержанию](#содержание)
 
 ### **Результаты**
 
@@ -92,7 +92,7 @@
 - Обобщённые выводы по проекту включают выявленные тенденции и сделанные прогнозы.
 - Основное внимание уделено построению `SQL-запросов` для наглядного представления данных при ответе на вопросы, без чрезмерного использования графиков. 
 
-:arrow_up:[к содержанию](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter/README.md#Содержание)
+:arrow_up:[к содержанию](#содержание)
 
 ### **Выводы**
 
