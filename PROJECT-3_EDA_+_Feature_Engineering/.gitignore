@@ -1,9 +1,10 @@
 text
 # Данные
 data/
-*.csv
-*.zip
-*.pkl
+hotels.csv
+hotels_test.csv
+hotels_train.csv
+
 
 # Python
 __pycache__/
