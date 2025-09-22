@@ -4,7 +4,7 @@
 [0. Ответ на задание "Угадай число"](https://github.com/MaksVikBra/DS_Homework/tree/main/0_Guess_the_number/)  
 [1. PROJECT-1 Анализ резюме из HeadHunter](https://github.com/MaksVikBra/DS_Homework/tree/main/1_Project_1_Resume_analysis_from_HeadHunter)  
 [2. PROJECT-2 Анализ вакансий из HeadHunter](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter)  
-[3. PROJECT-3. EDA + Feature Engineering](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-3. EDA + Feature Engineering)  
+[3. PROJECT-3. EDA + Feature Engineering](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-3_EDA_+_Feature_Engineering)  
 [4. ____________](https://github.com/MaksVikBra/DS_Homework/tree/main/)  
 [5. ____________](https://github.com/MaksVikBra/DS_Homework/tree/main/)  
 [6. ____________](https://github.com/MaksVikBra/DS_Homework/tree/main/)  
