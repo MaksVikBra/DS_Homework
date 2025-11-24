@@ -6,7 +6,7 @@
 [2. PROJECT-2 Анализ вакансий из HeadHunter](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-2.Job_analysis_from_HeadHunter)  
 [3. PROJECT-3. EDA + Feature Engineering](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-3_EDA_+_Feature_Engineering)  
 [4. PROJECT-4. Задача классификации](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-4_Classification_Task)  
-[5. ____________](https://github.com/MaksVikBra/DS_Homework/tree/main/)  
+[5. PROJECT-5_Задача регрессии](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-5_Regression_Task)  
 [6. ____________](https://github.com/MaksVikBra/DS_Homework/tree/main/)  
 [7. ____________](https://github.com/MaksVikBra/DS_Homework/tree/main/)  
 
@@ -16,6 +16,6 @@
 2. Анализ вакансий предоставленных компанией HeadHunter. Анализ вакансий предусматривает подготовку данных для модели машинного обучения, которая сможет рекомендовать вакансии кандидатам кадрового агентства, претендующим на позицию Data Scientist.
 3. Построение модели, которая предсказывает рейтинг отеля на booking.com
 4. Анализ клиентов банка на предмет открытия депозита с дальнейшим построением моделей машинного обучения.
-5. 
+5. Построение модели, которая предсказывает общую продолжительность поездки на такси в Нью-Йорке.
 6.
 7. 

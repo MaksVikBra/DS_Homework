@@ -1,0 +1,26 @@
+text
+# Данные
+data/
+holiday_data.csv
+osrm_data_test.csv
+osrm_data_train.csv
+test.csv
+train.csv
+weather_data.csv
+
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
