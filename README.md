@@ -1,4 +1,4 @@
-# Здесь расположены мои решения к заданиям Skillfactory
+# Данный репозиторий содержит проекты, выполненые мной при прохождении курса "Data Science" от онлайн-школы Skillfactory.
 
 ## Навигация  
 [0. Ответ на задание "Угадай число"](https://github.com/MaksVikBra/DS_Homework/tree/main/0_Guess_the_number/)  
@@ -7,7 +7,7 @@
 [3. PROJECT-3. EDA + Feature Engineering](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-3_EDA_+_Feature_Engineering)  
 [4. PROJECT-4. Задача классификации](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-4_Classification_Task)  
 [5. PROJECT-5_Задача регрессии](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-5_Regression_Task)  
-[6. ____________](https://github.com/MaksVikBra/DS_Homework/tree/main/)  
+[6. PROJECT-6_Задача кластеризации](https://github.com/MaksVikBra/DS_Homework/tree/main/PROJECT-6_Clustering_Task)  
 [7. ____________](https://github.com/MaksVikBra/DS_Homework/tree/main/)  
 
 ### Описание проектов    
@@ -17,5 +17,5 @@
 3. Построение модели, которая предсказывает рейтинг отеля на booking.com
 4. Анализ клиентов банка на предмет открытия депозита с дальнейшим построением моделей машинного обучения.
 5. Построение модели, которая предсказывает общую продолжительность поездки на такси в Нью-Йорке.
-6.
+6. Построение модели кластеризации клиентов онлайн-магазина на основе их покупательской способности, частоты заказов и срока давности последней покупки.
 7. 

@@ -1,0 +1,27 @@
+text
+# Данные
+data/
+cl_data.csv
+customer_segmentation_project.csv
+
+# Рисунки
+image/
+1.png
+2.png
+
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
